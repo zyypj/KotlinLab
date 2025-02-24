@@ -1,0 +1,7 @@
+name: KotlinLab
+version: '1.0'
+main: com.github.zyypj.kotlinLab.LabPlugin
+authors: [ tadeu ]
+commands:
+  fly:
+    aliases: [voar]

@@ -1,0 +1,9 @@
+debug: true
+
+permissions:
+  fly-use: "fly.use"
+
+messages:
+  fly-off: "&cVocê desativou seu modo de vôo!"
+  fly-on: "&aVocê ativou seu modo de vôo!"
+  no-permission: "&4&lERRO! &cVocê não tem permissão para isso!"
